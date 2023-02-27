@@ -12,7 +12,7 @@ Course materials of Natural Language Processing
 
 1. [语言处理与Python](https://github.com/Streamer0320/NLP-3b/blob/master/1.语言处理与Python-添加注释.ipynb)
 
-2. 获得文本语料和词汇资源
+2. [获得文本语料和词汇资源](https://github.com/Streamer0320/NLP-3b/blob/master/2.获得文本语料和词汇资源-添加注释.ipynb)
 
 3. 处理原始文本
 
@@ -54,6 +54,12 @@ Course materials of Natural Language Processing
 
   1.语言处理与Python - 添加注释.ipynb
 
+  > 对 html 原始内容进行了 ipynb 排版；修改了原始内容中运行时出现的错误；添加了更多的注释。
+
+- 2023年2月27日
+
+  2.获得文本语料和词汇资源-添加注释.ipynb
+  
   > 对 html 原始内容进行了 ipynb 排版；修改了原始内容中运行时出现的错误；添加了更多的注释。
 
 
