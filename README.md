@@ -17,7 +17,7 @@ fork: [jin-hao-0320/NLP-3b | Gitee](https://gitee.com/jin-hao-0320/NLP-3b)
 ## 目录
 
 1. [语言处理与Python](https://github.com/Streamer0320/NLP-3b/blob/master/1.语言处理与Python.ipynb)
-2. [获得文本语料和词汇资源](https://github.com/Streamer0320/NLP-3b/blob/master/2.获得文本语料和词汇资源.ipynb)
+2. [获得文本语料和词汇资源](https://github.com/Streamer0320/NLP-3b/blob/master/2.获得文本语料和词汇资源-new.ipynb)
 3. 处理原始文本
 4. 编写结构化的程序
 5. 分类和词汇标注
