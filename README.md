@@ -45,15 +45,15 @@ Python 版本：v3.8.16
 
 [NLTK环境配置.ipynb](https://github.com/Streamer0320/NLP-3b/blob/master/NLTK环境配置.ipynb)
 
-[NLTK环境配置.md](https://github.com/Streamer0320/NLP-3b/blob/master/NLTK环境配置.md)
-
 
 
 ## 更新
 
 - v0.1.3	2023-03-06
 
-1. 对第二章添加了章节目录，在 `notebook` 可正常使用。
+1. 在第二章添加了 html 标签章节目录；
+1. 更新了全图 `nltk` 环境配置说明；
+1. 上传了 `nltk` 配置中提到的两个离线包，目录： `./asset` ；
 
 
 
@@ -62,7 +62,7 @@ Python 版本：v3.8.16
 1. 更新并简化了文件命名；
 2. 添加了 `nltk` 镜像源安装方法和离线安装方法说明文件；
 5. 更新 `README.md` ;
-6. 在 `Gitee` 平台 `fork` 了该库以方便访问。
+6. 在 `Gitee` 平台 `fork` 了该库以方便访问；
 
 
 
