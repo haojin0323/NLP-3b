@@ -17,7 +17,7 @@ fork: [jin-hao-0320/NLP-3b | Gitee](https://gitee.com/jin-hao-0320/NLP-3b)
 ## 目录
 
 1. [语言处理与Python](https://github.com/Streamer0320/NLP-3b/blob/master/1.语言处理与Python.ipynb)
-2. [获得文本语料和词汇资源](https://github.com/Streamer0320/NLP-3b/blob/master/2.获得文本语料和词汇资源-new.ipynb)
+2. [获得文本语料和词汇资源](https://github.com/Streamer0320/NLP-3b/blob/master/2.获得文本语料和词汇资源.ipynb)
 3. 处理原始文本
 4. 编写结构化的程序
 5. 分类和词汇标注
@@ -54,6 +54,7 @@ Python 版本：v3.8.16
 1. 在第二章添加了 html 标签章节目录；
 1. 更新了全图 `nltk` 环境配置说明；
 1. 上传了 `nltk` 配置中提到的两个离线包，目录： `./asset` ；
+1. 修改了测试分支的过程中产生的错误；
 
 
 
