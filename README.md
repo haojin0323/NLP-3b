@@ -18,7 +18,7 @@ fork: [jin-hao-0320/NLP-3b | Gitee](https://gitee.com/jin-hao-0320/NLP-3b)
 
 1. [语言处理与Python](https://github.com/Streamer0320/NLP-3b/blob/master/1.语言处理与Python.ipynb)
 2. [获得文本语料和词汇资源](https://github.com/Streamer0320/NLP-3b/blob/master/2.获得文本语料和词汇资源.ipynb)
-3. 处理原始文本
+3. [处理原始文本](https://github.com/Streamer0320/NLP-3b/blob/master/3.处理原始文本.ipynb)
 4. 编写结构化的程序
 5. 分类和词汇标注
 6. 学习分类文本
@@ -48,6 +48,15 @@ Python 版本：v3.8.16
 
 
 ## 更新
+
+- v0.1.4	2023-03-06
+
+1. 把 html 原始内容整理到 `ipynb` 文件并排版；
+2. 修改了原始代码运行时出现的报错内容；
+3. 在代码段添加了更多的注释；
+4. 上传文件 `3 处理原始文本.ipynb` ；
+
+
 
 - v0.1.3	2023-03-06
 
