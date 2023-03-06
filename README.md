@@ -1,6 +1,6 @@
 # NLP-3b
 
-Course materials of Natural Language Processing
+>  Course materials of Natural Language Processing
 
 repo: [Streamer0320/NLP-3b | GitHub](https://github.com/Streamer0320/NLP-3b/)
 
@@ -8,17 +8,17 @@ fork: [jin-hao-0320/NLP-3b | Gitee](https://gitee.com/jin-hao-0320/NLP-3b)
 
 
 
-## 简介
+## 🔎 简 介
 
 本仓库内容基于 `usyiyi/nlp-py-2e-zh` 仓库内容，在 `jupyter notebook` 上重新排版为便于操作的 `.ipynb` 文件，并对无法正常运行的部分代码和有变化的内容做了修改。
 
 
 
-## 目录
+## 📃 目 录
 
-1. [语言处理与Python](https://github.com/Streamer0320/NLP-3b/blob/master/1.语言处理与Python.ipynb)
-2. [获得文本语料和词汇资源](https://github.com/Streamer0320/NLP-3b/blob/master/2.获得文本语料和词汇资源.ipynb)
-3. [处理原始文本](https://github.com/Streamer0320/NLP-3b/blob/master/3.处理原始文本.ipynb)
+1. [语言处理与Python](./1.语言处理与Python.ipynb)
+2. [获得文本语料和词汇资源](./2.获得文本语料和词汇资源.ipynb)
+3. [处理原始文本](./3.处理原始文本.ipynb)
 4. 编写结构化的程序
 5. 分类和词汇标注
 6. 学习分类文本
@@ -31,23 +31,29 @@ fork: [jin-hao-0320/NLP-3b | Gitee](https://gitee.com/jin-hao-0320/NLP-3b)
 
 
 
-## 环境
+## 📦 环 境
 
-系统：Windows 10
+- 系统：Windows 10
 
-软件：Acaconda
+- 软件：Acaconda
 
-Python 版本：v3.8.16
+- Python 版本：v3.8.16
 
-第三方库：`nltk、matplotlib、numpy`
-
-
-
-[NLTK环境配置.ipynb](https://github.com/Streamer0320/NLP-3b/blob/master/NLTK环境配置.ipynb)
+- 第三方库：`nltk、matplotlib、numpy`
 
 
 
-## 更新
+[NLTK环境配置.ipynb](./NLTK环境配置.ipynb)
+
+
+
+## 🔧 更 新
+
+- v0.1.5	2023-03-06
+
+1. 修改 README 链接目录为相对路径目录
+
+
 
 - v0.1.4	2023-03-06
 
@@ -96,11 +102,13 @@ Python 版本：v3.8.16
 
 
 
-## 致谢
+## 🔗 链 接
 
 https://usyiyi.github.io/nlp-py-2e-zh/
 
+https://www.anaconda.com
+
 https://mirrors.bfsu.edu.cn/anaconda/pkgs/main/
 
-https://www.anaconda.com
+https://github.com/aaren/notedown
 
