@@ -12,14 +12,7 @@ fork: [jin-hao-0320/NLP-3b | Gitee](https://gitee.com/jin-hao-0320/NLP-3b)
 
 本仓库内容基于 `usyiyi/nlp-py-2e-zh` 仓库内容，使用 `jupyter notebook` 重新排版为便于操作的 `.ipynb` 文件，并对无法正常运行的部分代码和有变化的内容做了修改。
 
-
-
-> 部分说明：GitHub 只支持 md 文件的目录跳转，**不支持** ipynb 文件的 md 目录跳转。
->
-> `Jupyter notebook` **支持** md 目录跳转；
->
->  `Microsoft Visul Studio Code` 的 `jupyter` 插件 **不支持** `ipynb` 文件的 md 目录跳转。 
-
+由于前期 `ipynb` 文件的目录跳转是优先基于 `jupyter notebook` 场景进行配置的，可能无法完全支持部分非 `jupyter notebook` 软件的某些场景（例如 `vscode 的 jupyter 插件`）。
 
 
 ## 📃 目 录
@@ -56,6 +49,12 @@ fork: [jin-hao-0320/NLP-3b | Gitee](https://gitee.com/jin-hao-0320/NLP-3b)
 
 
 ## 🔧 更 新
+
+- v0.6.2	2023-03-19
+
+1. 修改了 `README.md` 的部分信息。
+
+
 
 - v0.4.2	2023-03-13
 
@@ -139,7 +138,5 @@ https://usyiyi.github.io/nlp-py-2e-zh/
 https://www.anaconda.com
 
 https://mirrors.bfsu.edu.cn/anaconda/pkgs/main/
-
-https://github.com/aaren/notedown
 
 https://github.com/aaren/notedown
