@@ -14,7 +14,6 @@ fork: [jin-hao-0320/NLP-3b | Gitee](https://gitee.com/jin-hao-0320/NLP-3b)
 
 由于前期 `ipynb` 文件的目录跳转是优先基于 `jupyter notebook` 场景进行配置的，可能无法完全支持部分非 `jupyter notebook` 软件的某些场景（例如 `vscode 的 jupyter 插件`）。
 
-
 ## 📃 目 录
 
 1. [语言处理与Python](./1.语言处理与Python.ipynb)
@@ -22,7 +21,7 @@ fork: [jin-hao-0320/NLP-3b | Gitee](https://gitee.com/jin-hao-0320/NLP-3b)
 3. [处理原始文本](./3.处理原始文本.ipynb)
 4. [编写结构化的程序](./4.编写结构化程序.ipynb)
 5. [分类和词汇标注](./5.分类和词汇标注.ipynb)
-6. 学习分类文本
+6. [学习分类文本](./6.学习分类文本.ipynb)
 7. 从文本提取信息
 8. 分析句子结构
 9. 构建基于特征的文法
@@ -53,6 +52,16 @@ fork: [jin-hao-0320/NLP-3b | Gitee](https://gitee.com/jin-hao-0320/NLP-3b)
 - v0.6.2	2023-03-19
 
 1. 修改了 `README.md` 的部分信息。
+
+
+
+- v0.6.1	2023-03-19
+
+1. 把 6.html 原始内容整理到 `ipynb` 文件并排版；
+2. 添加了支持 `jupyter` 的目录；
+3. 运行代码更正错误并添加注释；
+4. 上传文件 `6.学习分类文本.ipynb` ；
+5. 更新了 `README.md` ;
 
 
 
