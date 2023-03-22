@@ -33,21 +33,34 @@ fork: [jin-hao-0320/NLP-3b | Gitee](https://gitee.com/jin-hao-0320/NLP-3b)
 
 ## 📦 环 境
 
-- 系统：Windows 10
+- Operating System: `Windows 10 (64-bits) 22H2` 
+- Platform: `Acaconda3 (64-bits)` 
+- Python Version: `3.8.16` 
+- requirements.txt: [requirements.txt](./requirements.txt) 
 
-- 软件：Acaconda
+- Dataset ：[NLTK Data | GitHub](https://github.com/nltk/nltk_data) 
 
-- Python 版本：v3.8.16
+​						  [NLTK_Data Mirror | Gitee](https://gitee.com/lanyan324/nltk_data)  
 
-- 第三方库：`nltk、matplotlib、numpy`
-
-
-
-[NLTK环境配置.ipynb](./NLTK环境配置.ipynb)
+[Python-NLTK环境配置.ipynb](./NLTK环境配置.ipynb)
 
 
 
 ## 🔧 更 新
+
+- v0.6.3	2023-03-22
+
+1. 上传了 `conda` 环境的 `requirements.txt` 
+
+2. 在 `6.ipynb` 中添加了实验环境信息。 
+
+
+
+- v0.5.2    2023-03-22
+
+1. 在 `5.ipynb` 中添加了实验环境信息。 
+
+
 
 - v0.6.2	2023-03-19
 
