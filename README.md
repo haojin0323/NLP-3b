@@ -14,7 +14,6 @@ fork: [jin-hao-0320/NLP-3b | Gitee](https://gitee.com/jin-hao-0320/NLP-3b)
 
 由于前期 `ipynb` 文件的目录跳转是优先基于 `jupyter notebook` 场景进行配置的，可能无法完全支持部分非 `jupyter notebook` 软件的某些场景（例如 `vscode 的 jupyter 插件`）。
 
-
 ## 📃 目 录
 
 1. [语言处理与Python](./1.语言处理与Python.ipynb)
@@ -22,7 +21,7 @@ fork: [jin-hao-0320/NLP-3b | Gitee](https://gitee.com/jin-hao-0320/NLP-3b)
 3. [处理原始文本](./3.处理原始文本.ipynb)
 4. [编写结构化的程序](./4.编写结构化程序.ipynb)
 5. [分类和词汇标注](./5.分类和词汇标注.ipynb)
-6. 学习分类文本
+6. [学习分类文本](./6.学习分类文本.ipynb)
 7. 从文本提取信息
 8. 分析句子结构
 9. 构建基于特征的文法
@@ -34,21 +33,29 @@ fork: [jin-hao-0320/NLP-3b | Gitee](https://gitee.com/jin-hao-0320/NLP-3b)
 
 ## 📦 环 境
 
-- 系统：Windows 10
+- Operating System: `Windows 10 (64-bits) 22H2` 
+- Platform: `Acaconda3 (64-bits)` 
+- Python Version: `3.8.16` 
+- requirements.txt: [requirements.txt](./requirements.txt) 
 
-- 软件：Acaconda
+- Dataset ：[NLTK Data | GitHub](https://github.com/nltk/nltk_data) 
 
-- Python 版本：v3.8.16
+​						  [NLTK_Data Mirror | Gitee](https://gitee.com/lanyan324/nltk_data)  
 
-- 第三方库：`nltk、matplotlib、numpy`
-
-
-
-[NLTK环境配置.ipynb](./NLTK环境配置.ipynb)
+[Python-NLTK环境配置.ipynb](./NLTK环境配置.ipynb)
 
 
 
 ## 🔧 更 新
+
+
+- v0.6.3	2023-03-22
+
+1. 上传了 `conda` 环境的 `requirements.txt` 
+
+2. 在 `6.ipynb` 中添加了实验环境信息。 
+
+
 
 - v0.5.2    2023-03-22
 
@@ -59,6 +66,16 @@ fork: [jin-hao-0320/NLP-3b | Gitee](https://gitee.com/jin-hao-0320/NLP-3b)
 - v0.6.2	2023-03-19
 
 1. 修改了 `README.md` 的部分信息。
+
+
+
+- v0.6.1	2023-03-19
+
+1. 把 6.html 原始内容整理到 `ipynb` 文件并排版；
+2. 添加了支持 `jupyter` 的目录；
+3. 运行代码更正错误并添加注释；
+4. 上传文件 `6.学习分类文本.ipynb` ；
+5. 更新了 `README.md` ;
 
 
 
