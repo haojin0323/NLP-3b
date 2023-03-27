@@ -38,9 +38,7 @@ fork: [jin-hao-0320/NLP-3b | Gitee](https://gitee.com/jin-hao-0320/NLP-3b)
 - Python Version: `3.8.16` 
 - requirements.txt: [requirements.txt](./requirements.txt) 
 
-- Dataset ：[NLTK Data | GitHub](https://github.com/nltk/nltk_data) 
-
-​						  [NLTK_Data Mirror | Gitee](https://gitee.com/lanyan324/nltk_data)  
+- Dataset ：[NLTK Data | GitHub](https://github.com/nltk/nltk_data) | [NLTK_Data Mirror | Gitee](https://gitee.com/lanyan324/nltk_data)  
 
 
 
@@ -77,8 +75,17 @@ fork: [jin-hao-0320/NLP-3b | Gitee](https://gitee.com/jin-hao-0320/NLP-3b)
 
 ## 🔧 更 新
 
-- v0.7.0	2023-03-27
+- v0.4.3	2023-03-27
 
+1. 更改 `/asset` 为 `/packages`；
+2. 整理了 `/packages` 的目录结构和说明文件；
+3. 增添了环境配置的干净安装命令和注意事项；
+4. 上传了最新的 `requirements.txt` 文件。
+
+
+
+- v0.7.0	2023-03-27
+  
 1. 把 7.html 原始内容整理到 `ipynb` 文件并排版；
 2. 添加了支持 `jupyter notebook` 和 `vscode jupyter` 的目录；
 3. 运行代码更正错误并添加注释；
@@ -90,9 +97,9 @@ fork: [jin-hao-0320/NLP-3b | Gitee](https://gitee.com/jin-hao-0320/NLP-3b)
 
 - v0.6.2	2023-03-22
 
-1. 上传了 `conda` 环境的 `requirements.txt` 
+1. 上传了 `conda` 环境的 `requirements.txt` ；
 
-2. 在 `6.ipynb` 中添加了实验环境信息。 
+2. 在 `6.ipynb` 中添加了实验环境信息。
 
 
 
@@ -120,7 +127,7 @@ fork: [jin-hao-0320/NLP-3b | Gitee](https://gitee.com/jin-hao-0320/NLP-3b)
 
 - v0.4.1	2023-03-13
 
-1. 更新了 4.ipynb 文件的目录
+1. 更新了 4.ipynb 文件的目录。
 
 
 
