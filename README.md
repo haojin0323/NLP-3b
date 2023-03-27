@@ -14,6 +14,8 @@ fork: [jin-hao-0320/NLP-3b | Gitee](https://gitee.com/jin-hao-0320/NLP-3b)
 
 由于前期 `ipynb` 文件的目录跳转是优先基于 `jupyter notebook` 场景进行配置的，可能无法完全支持部分非 `jupyter notebook` 软件的某些场景（例如 `vscode 的 jupyter 插件`）。
 
+
+
 ## 📃 目 录
 
 1. [语言处理与Python](./1.语言处理与Python.ipynb)
@@ -34,11 +36,15 @@ fork: [jin-hao-0320/NLP-3b | Gitee](https://gitee.com/jin-hao-0320/NLP-3b)
 ## 📦 环 境
 
 - Operating System: `Windows 10 (64-bits) 22H2` 
+
 - Platform: `Acaconda3 (64-bits)` 
+
 - Python Version: `3.8.16` 
+
 - requirements.txt: [requirements.txt](./requirements.txt) 
 
-- Dataset ：[NLTK Data | GitHub](https://github.com/nltk/nltk_data) | [NLTK_Data Mirror | Gitee](https://gitee.com/lanyan324/nltk_data)  
+- Dataset ：[NLTK_Data | GitHub](https://github.com/nltk/nltk_data) OR [NLTK_Data Mirror | Gitee](https://gitee.com/lanyan324/nltk_data)  
+
 
 
 
@@ -61,13 +67,21 @@ fork: [jin-hao-0320/NLP-3b | Gitee](https://gitee.com/jin-hao-0320/NLP-3b)
    ```
    conda activate nltk
    ```
+
 5. 使用以下命令用 `requirements.txt` 文件配置环境：
 
    ```
    conda install --yes --file requirements.txt
    ```
-6. 如果有疑问，请参阅以下详细的配置说明文件。
-   
+
+6. 或者直接使用以下命令完成 3、4、5 步：
+
+   ```
+   conda create --name nltk --file requirements.txt
+   ```
+
+7. 如果有疑问，请参阅以下详细的配置说明文件。
+
 
 ​	[Python-NLTK环境配置.ipynb](./NLTK环境配置.ipynb)
 
