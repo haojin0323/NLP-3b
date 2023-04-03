@@ -2,9 +2,9 @@
 
 >  Course materials of Natural Language Processing
 
-repo: [Streamer0320/NLP-3b | GitHub](https://github.com/Streamer0320/NLP-3b/)
+**Repo:** [Streamer0320/NLP-3b | GitHub](https://github.com/Streamer0320/NLP-3b/)
 
-fork: [jin-hao-0320/NLP-3b | Gitee](https://gitee.com/jin-hao-0320/NLP-3b)
+**Fork:** [jin-hao-0320/NLP-3b | Gitee](https://gitee.com/jin-hao-0320/NLP-3b)
 
 
 
@@ -25,7 +25,7 @@ fork: [jin-hao-0320/NLP-3b | Gitee](https://gitee.com/jin-hao-0320/NLP-3b)
 5. [分类和词汇标注](./5.分类和词汇标注.ipynb)
 6. [学习分类文本](./6.学习分类文本.ipynb)
 7. [从文本提取信息](./7.从文本提取信息.ipynb)
-8. 分析句子结构
+8. [分析句子结构](./8.分析句子结构.ipynb)
 9. 构建基于特征的文法
 10. 分析句子的含义
 11. 语言学数据管理
@@ -83,134 +83,7 @@ fork: [jin-hao-0320/NLP-3b | Gitee](https://gitee.com/jin-hao-0320/NLP-3b)
 7. 如果有疑问，请参阅以下详细的配置说明文件。
 
 
-​	[Python-NLTK环境配置.ipynb](./NLTK环境配置.ipynb)
-
-
-
-## 🔧 更 新
-
-- v0.4.3	2023-03-27
-
-1. 更改 `/asset` 为 `/packages`；
-2. 整理了 `/packages` 的目录结构和说明文件；
-3. 增添了环境配置的干净安装命令和注意事项；
-4. 上传了最新的 `requirements.txt` 文件。
-
-
-
-- v0.7.0	2023-03-27
-  
-1. 把 7.html 原始内容整理到 `ipynb` 文件并排版；
-2. 添加了支持 `jupyter notebook` 和 `vscode jupyter` 的目录；
-3. 运行代码更正错误并添加注释；
-4. 上传文件 `7.从文本提取信息.ipynb` ；
-5. 更新了 `README.md` ;
-
-
-
-
-- v0.6.2	2023-03-22
-
-1. 上传了 `conda` 环境的 `requirements.txt` ；
-
-2. 在 `6.ipynb` 中添加了实验环境信息。
-
-
-
-- v0.5.1    2023-03-22
-
-1. 在 `5.ipynb` 中添加了实验环境信息。 
-
-
-
-- v0.6.1	2023-03-19
-
-1. 修改了 `README.md` 的部分信息。
-
-
-
-- v0.6.0	2023-03-19
-
-1. 把 6.html 原始内容整理到 `ipynb` 文件并排版；
-2. 添加了支持 `jupyter` 的目录；
-3. 运行代码更正错误并添加注释；
-4. 上传文件 `6.学习分类文本.ipynb` ；
-5. 更新了 `README.md` ;
-
-
-
-- v0.4.1	2023-03-13
-
-1. 更新了 4.ipynb 文件的目录。
-
-
-
-- v0.5.0	2023-03-10
-
-1. 把 5.html 原始内容整理到 `ipynb` 文件并排版；
-2. 添加了支持 `jupyter` 的目录；
-3. 运行代码更正错误并添加注释；
-4. 上传文件 `5.分类和词汇标注.ipynb` ；
-5. 更新了 `README.md` ;
-
-
-
-- v0.4.0	2023-03-10
-
-1. 把 4.html 原始内容整理到 `ipynb` 文件并排版；
-1. 运行代码并更正错误；
-1. 添加了支持 `jupyter` 的目录和注释；
-1. 上传文件 `4.编写结构化程序.ipynb` ;
-1. 更改了版本规则；
-1. 更新了说明文件；
-
-
-
-- v0.3.0	2023-03-06
-
-1. 把 3.html 原始内容整理到 `ipynb` 文件并排版；
-2. 修改了原始代码运行时出现的报错内容；
-3. 在代码段添加了更多的注释；
-4. 上传文件 `3 处理原始文本.ipynb` ；
-5. 修改 README 链接目录为相对路径目录
-
-
-
-- v0.2.2	2023-03-06
-
-1. 在第二章添加了 html 标签章节目录；
-1. 更新了全图 `nltk` 环境配置说明；
-1. 上传了 `nltk` 配置中提到的两个包，目录： `./asset` ；
-1. 修改了测试分支的过程中产生的错误；
-
-
-
-- v0.2.1	2023-03-06
-
-1. 更新并简化了文件命名；
-2. 添加了 `nltk` 镜像源安装方法和离线安装方法说明文件；
-5. 更新 `README.md` ;
-6. 在 `Gitee` 平台 `fork` 了该库以方便访问；
-
-
-
-- v0.2.0	2023-02-27
-
-1. 把 2.html 原始内容整理到 `ipynb` 文件并排版；
-2. 修改了原始代码运行时出现的报错内容；
-3. 在代码段添加了更多的注释；
-4. 上传文件 `2.获得文本语料和词汇资源-添加注释.ipynb` ；
-5. 更新 `README.md` ;
-
-
-
-- v0.1.0	2023-02-25
-
-1. 把 1.html 原始内容整理到 `ipynb` 文件并排版；
-2. 修改了原始代码运行时出现的报错内容；
-3. 在代码段添加了更多的注释；
-4. 上传文件 `1.语言处理与Python-添加注释.ipynb` ；
-5. 更新 `README.md` ;
+   [Python-NLTK环境配置.ipynb](./NLTK环境配置.ipynb)
 
 
 
@@ -231,4 +104,3 @@ https://github.com/nltk/nltk_data
 https://github.com/aaren/notedown
 
 https://stackoverflow.com/questions/12606543/nltk-megam-max-ent-algorithms-on-windows
-

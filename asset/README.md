@@ -1,12 +1,13 @@
-# Packages Details
+# Asset
 
-> 这里是一些在实验中需要使用但是可能无法使用 `conda install` 直接安装的包
+> 这里是一些在实验中需要使用的文件或者包
 
 ## 目录结构
 
-packages
-├—— pip
-└—— conda
+asset
+├—— README.md
+├—— mygrammar.cfg
+└—— packages
     ├—— nltk-3.4.5-py38_0.conda
     ├—— six-1.15.0-py38haa95532_0.conda
 
