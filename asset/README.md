@@ -5,19 +5,20 @@
 ## 目录结构
 
 asset
-├—— README.md
+├—— packages
+|    	├—— nltk-3.4.5-py38_0.conda
+|    	└—— six-1.15.0-py38haa95532_0.conda
+├—— megam-64.opt
 ├—— mygrammar.cfg
-└—— packages
-    ├—— nltk-3.4.5-py38_0.conda
-    ├—— six-1.15.0-py38haa95532_0.conda
+└—— README.md
 
 
 
 
 
-## 干净安装
+## 环境配置
 
-一些配置环境的安装命令，干净安装
+配置 NLTK 环境，干净安装的命令
 
 ```
 conda install nltk numpy matplotlib
@@ -41,7 +42,7 @@ conda install -c conda-forge python-flair
 
 
 
-## 其他说明
+## 说明
 
 在 4.ipynb 文件中有以下一段代码（原始代码）：
 
@@ -53,4 +54,4 @@ results = analyze(data)
 present(results)
 ```
 
-其中 NLPTaskDataFetcher 只在 flair==0.5 可正常导入，由于该包后续版本有一些代码更改，导致以上代码无法正常稳定运行。目前已知可能是一些方法和模块更改了路径和名字，以及由于版权原因下架了一些数据集。
+其中 NLPTaskDataFetcher 只在 flair==0.5 可正常导入，由于该包后续版本有一些代码更改，导致以上代码无法正常稳定运行。目前已知其无法运行的原因是该包的一些方法和模块更改了路径和名字，并且作者说由于版权原因去除了部分数据集（需要去相应的官方网站自己下载）。
