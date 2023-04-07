@@ -89,6 +89,12 @@ fork: [jin-hao-0320/NLP-3b | Gitee](https://gitee.com/jin-hao-0320/NLP-3b)
 
 ## 🔧 更 新
 
+- v0.7.1	2023-04-07
+
+1. 更改 `docs 07` 中的分类器 `megam` 为 `iis` ；
+
+
+
 - v0.4.3	2023-03-27
 
 1. 更改 `/asset` 为 `/packages`；
