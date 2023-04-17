@@ -27,7 +27,7 @@
 7. [从文本提取信息](./7.从文本提取信息.ipynb)
 8. [分析句子结构](./8.分析句子结构.ipynb)
 9. [构建基于特征的文法](./9.构建基于特征的语法.ipynb)
-10. 分析句子的含义
+10. [分析句子的含义](./10.分析句子的意思.ipynb)
 11. 语言学数据管理
 12. 后记︰面对语言的挑战
 
@@ -86,9 +86,17 @@
 
 ## 🔗 参 考
 
+- nlp-py
+
+https://www.nltk.org/book/
+
 https://usyiyi.github.io/nlp-py-2e-zh/
 
+- environment base
+
 https://www.anaconda.com
+
+- nltk
 
 https://mirrors.bfsu.edu.cn/anaconda/pkgs/main/
 
@@ -96,8 +104,34 @@ https://www.nltk.org/
 
 https://github.com/nltk/nltk
 
+- nltk_data
+
 https://github.com/nltk/nltk_data
+
+- md2ipynb
 
 https://github.com/aaren/notedown
 
+- megam iis
+
 https://stackoverflow.com/questions/12606543/nltk-megam-max-ent-algorithms-on-windows
+
+- prover9 mace4
+
+https://blog.csdn.net/gdkyxy2013/article/details/88377848
+
+https://www.cs.unm.edu/~mccune/prover9/
+
+https://www.nltk.org/howto/inference.html
+
+https://stackoverflow.com/questions/25844794/nltk-was-unable-to-find-mace4/44805638
+
+- maltparser
+
+https://github.com/nltk/nltk/wiki/Installing-Third-Party-Software#malt-parser
+
+http://www.maltparser.org/download.html
+
+- `engmalt.linear-1.7.mco`
+
+http://www.maltparser.org/mco/mco.html

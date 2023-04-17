@@ -13,6 +13,15 @@
 
 删除（ Removed ）：已删除的功能。
 
+## [0.10.0] - 2023-04-17
+
+### Features
+
+- 把 10.html 原始内容整理到 `ipynb` 文件并排版。
+- 上传了 Prover9-Mace4 相关配置内容 `asset/Prover9-Mace4-v05-setup.exe`，`asset/Prover9-Mace4.zip` 。
+- 上传了相关文件 `asset/maltparser-1.7.zip` 。
+- 上传了相关模型 `asset/engmalt.linear-1.7.mco` 。
+
 ## [0.9.0] - 2023-04-07
 
 ### Features 

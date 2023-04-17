@@ -8,8 +8,13 @@ asset
 ├—— packages
 |    	├—— nltk-3.4.5-py38_0.conda
 |    	└—— six-1.15.0-py38haa95532_0.conda
+├—— dict.csv
+├—— engmalt.linear-1.7.mco
+├—— maltparser-1.7.zip
 ├—— megam-64.opt
 ├—— mygrammar.cfg
+├—— Prover9-Mace4.zip
+├—— Prover9-Mace4-v05-setup.exe
 └—— README.md
 
 
