@@ -2,10 +2,12 @@
 
 >  Course materials of Natural Language Processing
 
-**Repo:** [Streamer0320/NLP-3b | GitHub](https://github.com/Streamer0320/NLP-3b/)
+**Repo:** [Streamer0320/NLP-3b | GitHub](https://github.com/Streamer0320/NLP-3b/) 
 
-**Fork:** [jin-hao-0320/NLP-3b | Gitee](https://gitee.com/jin-hao-0320/NLP-3b)
+**Fork:** [jin-hao-0320/NLP-3b | Gitee](https://gitee.com/jin-hao-0320/NLP-3b) 
 
+
+**在更新第十二个实验文档后，该项目所有实验内容上传基本完成，部分实验我会把 `ipynb` 和相关文件资源以压缩打包的形式按照章节发布，以方便下载和操作。**
 
 
 ## 🔎 简 介
@@ -13,7 +15,6 @@
 本仓库内容基于 `usyiyi/nlp-py-2e-zh` 仓库内容，使用 `jupyter notebook` 重新排版为便于操作的 `.ipynb` 文件，并对无法正常运行的部分代码和有变化的内容做了修改。
 
 由于前期 `ipynb` 文件的目录跳转是优先基于 `jupyter notebook` 场景进行配置的，可能无法完全支持部分非 `jupyter notebook` 软件的某些场景（例如 `vscode 的 jupyter 插件`）。
-
 
 
 ## 📃 目 录
@@ -29,7 +30,7 @@
 9. [构建基于特征的文法](./9.构建基于特征的语法.ipynb)
 10. [分析句子的含义](./10.分析句子的意思.ipynb)
 11. [语言学数据管理](./11.语言学数据管理.ipynb)
-12. 后记︰面对语言的挑战
+12. [后记︰面对语言的挑战](./12.后记：语言的挑战.ipynb)
 
 
 
